@@ -1,0 +1,943 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#07090a">
+    <title>Mohammed Siddique | CALEX International</title>
+    <meta
+      name="description"
+      content="Digital business card for Mohammed Siddique, Business Development Executive at CALEX International."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="card-shell" aria-label="Digital business card">
+      <section class="brand-panel" aria-labelledby="person-name">
+        <div class="portrait-wrap">
+          <img
+            class="portrait"
+            src="assets/profile.png"
+            alt="Mohammed Siddique"
+            width="520"
+            height="520"
+          >
+        </div>
+
+        <div class="identity">
+          <p class="eyebrow">CALEX International</p>
+          <h1 id="person-name">Mohammed<br>Siddique</h1>
+          <div class="gold-rule" aria-hidden="true"><span></span></div>
+          <p class="role">Business Development Executive</p>
+        </div>
+
+        <address class="contact-list">
+          <a class="contact-row" href="tel:+966543949292">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M22 16.92v2.4a2.1 2.1 0 0 1-2.29 2.1A20.55 20.55 0 0 1 3.03 4.73 2.1 2.1 0 0 1 5.12 2.5h2.4a2.1 2.1 0 0 1 2.08 1.8l.36 2.54a2.1 2.1 0 0 1-.6 1.82L8.2 9.84a15.4 15.4 0 0 0 5.96 5.96l1.18-1.16a2.1 2.1 0 0 1 1.82-.6l2.54.36A2.1 2.1 0 0 1 22 16.92Z"/></svg>
+            </span>
+            <span><strong>054 394 9292</strong><small>Mobile</small></span>
+          </a>
+          <a class="contact-row" href="mailto:sales1@calexint.com">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M3.5 6.5h17v11h-17z"/><path d="m4 7 8 6 8-6"/></svg>
+            </span>
+            <span><strong>Sales1@calexint.com</strong><small>Email</small></span>
+          </a>
+          <a class="contact-row" href="https://www.calexint.com" target="_blank" rel="noopener">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.7 4 5.7 4 9s-1.3 6.3-4 9c-2.7-2.7-4-5.7-4-9s1.3-6.3 4-9Z"/></svg>
+            </span>
+            <span><strong>www.calexint.com</strong><small>Website</small></span>
+          </a>
+          <p class="contact-row">
+            <span class="icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M12 21s7-6.6 7-12a7 7 0 0 0-14 0c0 5.4 7 12 7 12Z"/><circle cx="12" cy="9" r="2.6"/></svg>
+            </span>
+            <span><strong>Kingdom of Saudi Arabia</strong><small>Based in KSA</small></span>
+          </p>
+        </address>
+
+        <div class="quick-contact" aria-label="Quick contact actions">
+          <div class="section-title"><span></span>Quick Contact<span></span></div>
+          <div class="quick-grid">
+            <a class="quick-button" href="tel:+966543949292">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22 16.92v2.4a2.1 2.1 0 0 1-2.29 2.1A20.55 20.55 0 0 1 3.03 4.73 2.1 2.1 0 0 1 5.12 2.5h2.4a2.1 2.1 0 0 1 2.08 1.8l.36 2.54a2.1 2.1 0 0 1-.6 1.82L8.2 9.84a15.4 15.4 0 0 0 5.96 5.96l1.18-1.16a2.1 2.1 0 0 1 1.82-.6l2.54.36A2.1 2.1 0 0 1 22 16.92Z"/></svg>
+              Call Me
+            </a>
+            <a class="quick-button" href="https://wa.me/966543949292" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.4 19.6 5.6 16A8 8 0 1 1 8 18.4l-3.6 1.2Z"/><path d="M9 8.8c.3 2.3 1.9 4.1 4.2 4.9l1.5-1.1 2.1 1.1c-.3 1.4-1.4 2.3-2.8 2.3-3.7 0-7-3.3-7-7 0-1.4.9-2.5 2.3-2.8l1.1 2.1L9 8.8Z"/></svg>
+              WhatsApp Me
+            </a>
+            <a class="quick-button" href="mailto:sales1@calexint.com">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 6.5h17v11h-17z"/><path d="m4 7 8 6 8-6"/></svg>
+              Send Email
+            </a>
+            <a class="quick-button" href="https://www.linkedin.com/" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4v11H4zM4 4h4v3H4zM11 9h3.8v1.6c.6-1 1.7-1.9 3.5-1.9 2.5 0 4 1.7 4 5V20h-4v-5.7c0-1.4-.6-2.1-1.7-2.1-1.2 0-1.8.8-1.8 2.1V20H11z"/></svg>
+              Connect on LinkedIn
+            </a>
+            <a class="quick-button" href="https://www.calexint.com" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.7 4 5.7 4 9s-1.3 6.3-4 9c-2.7-2.7-4-5.7-4-9s1.3-6.3 4-9Z"/></svg>
+              Visit Website
+            </a>
+            <a class="quick-button" href="mailto:sales1@calexint.com?subject=Request%20for%20Quotation%20-%20CALEX%20International">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2.8h9l4 4V21H6z"/><path d="M15 3v4h4M9 11h6M9 15h6"/></svg>
+              Request Quotation
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="solutions-panel" aria-labelledby="brand-name">
+        <div class="map-dots" aria-hidden="true"></div>
+        <div class="brand-mark">
+          <h2 id="brand-name"><span>C</span><span class="logo-a">A</span><span>LEX</span></h2>
+          <p>International</p>
+        </div>
+        <p class="tagline">Building Connections.<br>Delivering <strong>Excellence.</strong></p>
+        <div class="star-line" aria-hidden="true"><span></span></div>
+
+        <div class="solutions-card">
+          <h3>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6V4h6v2M4 8h16v11H4zM4 12h16M10 12v2h4v-2"/></svg>
+            Our Solutions
+          </h3>
+          <ul>
+            <li>Manpower Supply</li>
+            <li>Offshore Personnel Mobilization</li>
+            <li>Industrial Equipment &amp; Tools</li>
+            <li>Procurement Solutions</li>
+            <li>Project Support Services</li>
+          </ul>
+        </div>
+
+        <div class="qr-card" aria-label="Scan to save contact">
+          <div class="qr-frame">
+            <img src="assets/contact-qr.svg" alt="QR code to save Mohammed Siddique contact">
+            <div class="qr-logo" aria-hidden="true">A</div>
+          </div>
+          <a class="tap-button" href="mohammed-siddique.vcf" download>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3h8v18H8z"/><path d="M10 6h4M10 18h4"/><path d="M18 8c1.4.7 2.4 2.2 2.4 4s-1 3.3-2.4 4M6 8c-1.4.7-2.4 2.2-2.4 4S4.6 15.3 6 16"/></svg>
+            <span><strong>Tap or Scan</strong><small>to save my contact</small></span>
+          </a>
+        </div>
+      </section>
+
+      <section class="service-strip" aria-label="Service focus areas">
+        <article class="service-card industrial">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V9l4 3V9l4 3V5h4v7l4-3v11z"/><path d="M7 16h2M11 16h2M15 16h2"/></svg>
+          <h3>Industrial<br>Solutions</h3>
+        </article>
+        <article class="service-card marine">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 15h14l-2 4H7zM8 15V9h8v6M10 9V5h4v4"/><path d="M4 20c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/></svg>
+          <h3>Marine<br>Services</h3>
+        </article>
+        <article class="service-card global">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.7 2.7 4 5.7 4 9s-1.3 6.3-4 9c-2.7-2.7-4-5.7-4-9s1.3-6.3 4-9Z"/></svg>
+          <h3>Global<br>Standards</h3>
+        </article>
+        <article class="service-card vision">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 17c4-3 12-3 16 0M6 20h12M12 4v11M8 7h8"/><path d="M7 9c1.5 1 3.5 1 5 0s3.5-1 5 0"/></svg>
+          <h3>Saudi<br>Vision</h3>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
+
+BEGIN:VCARD
+VERSION:3.0
+N:Siddique;Mohammed;;;
+FN:Mohammed Siddique
+ORG:CALEX International
+TITLE:Business Development Executive
+TEL;TYPE=CELL:+966543949292
+EMAIL:sales1@calexint.com
+URL:https://www.calexint.com
+ADR;TYPE=WORK:;;;;;Kingdom of Saudi Arabia
+NOTE:Services: Manpower Supply, Offshore Personnel Mobilization, Industrial Equipment & Tools, Procurement Solutions, Project Support Services
+END:VCARD
+
+# CALEX Digital Business Card
+
+Static GitHub Pages-ready e-business card for Mohammed Siddique.
+
+## Files
+
+- `index.html` - the card markup and contact links
+- `styles.css` - the full visual design
+- `assets/profile.png` - portrait image
+- `assets/contact-qr.svg` - QR code containing the vCard contact
+- `mohammed-siddique.vcf` - downloadable contact card
+
+## Host on GitHub Pages
+
+1. Create a new GitHub repository.
+2. Upload the contents of this folder to the repository root.
+3. Go to **Settings > Pages**.
+4. Set **Source** to **Deploy from a branch**.
+5. Select `main` and `/root`, then save.
+
+GitHub will publish the card at:
+
+`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/`
+
+## Edit Details
+
+Update the visible phone, email, website, LinkedIn URL, and service text in `index.html`.
+
+Update the QR/contact download details in `mohammed-siddique.vcf`, then regenerate the QR:
+
+```bash
+python3 -m pip install reportlab
+python3 tools/generate_qr.py
+```
+
+:root {
+  --bg: #040607;
+  --panel: #0a0d0f;
+  --panel-soft: #11161a;
+  --gold: #f4bd37;
+  --gold-dark: #b87814;
+  --gold-light: #ffe88b;
+  --red: #e4101a;
+  --text: #f7f7f2;
+  --muted: #c9ccd0;
+  --line: rgba(244, 189, 55, 0.6);
+  --shadow: 0 26px 80px rgba(0, 0, 0, 0.55);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #020303;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  padding: 28px;
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at 18% 14%, rgba(244, 189, 55, 0.17), transparent 28%),
+    radial-gradient(circle at 82% 85%, rgba(228, 16, 26, 0.13), transparent 25%),
+    linear-gradient(135deg, #020303 0%, #0b0f11 55%, #020303 100%);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+svg {
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
+.card-shell {
+  position: relative;
+  width: min(100%, 1050px);
+  min-height: 1560px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr auto;
+  gap: 0;
+  overflow: hidden;
+  border: 2px solid var(--gold);
+  border-radius: 46px;
+  box-shadow: var(--shadow);
+  background:
+    linear-gradient(110deg, rgba(255, 255, 255, 0.055), transparent 24%),
+    radial-gradient(circle at 42% 35%, rgba(244, 189, 55, 0.08), transparent 32%),
+    linear-gradient(150deg, #060809 0%, #0a0f12 48%, #030405 100%);
+}
+
+.card-shell::before,
+.card-shell::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.card-shell::before {
+  inset: auto -10% -58px -10%;
+  height: 128px;
+  background:
+    linear-gradient(160deg, transparent 0 13%, var(--red) 13% 25%, transparent 25% 75%, var(--red) 75% 87%, transparent 87%),
+    linear-gradient(180deg, transparent 0%, rgba(244, 189, 55, 0.28) 70%, var(--gold) 100%);
+  border-radius: 55% 55% 0 0;
+}
+
+.card-shell::after {
+  top: 235px;
+  right: -26px;
+  width: 260px;
+  height: 105px;
+  transform: rotate(-45deg);
+  background:
+    linear-gradient(90deg, transparent 0 16%, var(--gold) 16% 27%, #111 27% 49%, transparent 49% 55%, var(--red) 55% 66%, transparent 66%);
+  opacity: 0.94;
+}
+
+.brand-panel,
+.solutions-panel {
+  position: relative;
+  z-index: 1;
+  padding: 42px 48px;
+}
+
+.brand-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  border-right: 1px solid rgba(244, 189, 55, 0.42);
+}
+
+.portrait-wrap {
+  position: relative;
+  width: min(76%, 420px);
+  aspect-ratio: 1;
+  margin: 0 auto 26px;
+  border-radius: 50%;
+  padding: 7px;
+  background:
+    linear-gradient(135deg, var(--gold-light), var(--gold) 42%, var(--gold-dark) 58%, var(--gold-light));
+  box-shadow:
+    0 0 0 2px rgba(255, 241, 150, 0.35),
+    0 0 35px rgba(244, 189, 55, 0.72),
+    inset 0 0 26px rgba(0, 0, 0, 0.8);
+}
+
+.portrait-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 15px;
+  border-radius: inherit;
+  box-shadow: inset 0 0 38px rgba(0, 0, 0, 0.45);
+}
+
+.portrait {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: inherit;
+  object-fit: cover;
+  background: #161616;
+}
+
+.identity {
+  text-transform: uppercase;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--gold);
+  font-size: 0.86rem;
+  letter-spacing: 0.2em;
+  font-weight: 800;
+}
+
+h1 {
+  margin: 0;
+  color: var(--gold);
+  font-size: clamp(3.1rem, 6.1vw, 4.5rem);
+  line-height: 0.95;
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  text-shadow: 0 2px 0 #6e430d, 0 0 18px rgba(244, 189, 55, 0.32);
+}
+
+.gold-rule {
+  display: flex;
+  align-items: center;
+  margin: 26px 0 18px;
+  color: var(--gold);
+}
+
+.gold-rule::before,
+.gold-rule::after,
+.section-title span {
+  content: "";
+  height: 2px;
+  flex: 1;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+.gold-rule span {
+  width: 11px;
+  height: 11px;
+  transform: rotate(45deg);
+  background: var(--gold);
+  box-shadow: 0 0 16px rgba(244, 189, 55, 0.7);
+}
+
+.role {
+  margin: 0 0 22px;
+  color: var(--text);
+  font-size: 1.75rem;
+  text-transform: none;
+}
+
+.contact-list {
+  display: grid;
+  gap: 15px;
+  margin: 0;
+  font-style: normal;
+}
+
+.contact-row {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  align-items: center;
+  gap: 15px;
+  min-width: 0;
+}
+
+.contact-row strong {
+  display: block;
+  overflow-wrap: anywhere;
+  font-size: 1.83rem;
+  line-height: 1.12;
+  font-weight: 500;
+}
+
+.contact-row small {
+  display: block;
+  margin-top: 4px;
+  color: var(--gold);
+  font-size: 1.18rem;
+  font-weight: 700;
+}
+
+.icon {
+  width: 58px;
+  height: 58px;
+  display: grid;
+  place-items: center;
+  border: 2px solid var(--gold);
+  border-radius: 50%;
+  color: var(--gold);
+  box-shadow: inset 0 0 18px rgba(244, 189, 55, 0.12);
+}
+
+.icon svg {
+  width: 31px;
+  height: 31px;
+}
+
+.quick-contact {
+  margin-top: 28px;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  color: var(--gold);
+  font-size: 1.35rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.quick-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px 14px;
+  margin-top: 22px;
+}
+
+.quick-button {
+  min-height: 78px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 15px;
+  border: 1px solid var(--gold);
+  border-radius: 10px;
+  color: var(--text);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.015));
+  box-shadow: inset 0 0 18px rgba(244, 189, 55, 0.09);
+  font-size: 1.03rem;
+  font-weight: 800;
+  line-height: 1.12;
+  text-transform: uppercase;
+  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.quick-button:hover,
+.quick-button:focus-visible {
+  transform: translateY(-2px);
+  border-color: var(--gold-light);
+  background: linear-gradient(135deg, rgba(244, 189, 55, 0.18), rgba(255, 255, 255, 0.025));
+}
+
+.quick-button svg {
+  flex: 0 0 auto;
+  width: 43px;
+  height: 43px;
+  color: var(--gold);
+  fill: rgba(244, 189, 55, 0.22);
+}
+
+.solutions-panel {
+  min-width: 0;
+  padding-top: 86px;
+}
+
+.map-dots {
+  position: absolute;
+  top: 18px;
+  right: 22px;
+  width: 295px;
+  height: 180px;
+  opacity: 0.43;
+  background-image: radial-gradient(circle, var(--gold-dark) 1.6px, transparent 1.7px);
+  background-size: 7px 7px;
+  mask-image: radial-gradient(ellipse at center, black 0 62%, transparent 72%);
+}
+
+.brand-mark {
+  position: relative;
+  z-index: 1;
+  margin-left: 8px;
+}
+
+.brand-mark h2 {
+  margin: 0;
+  color: #f8f8f5;
+  font-size: clamp(3.2rem, 7vw, 5.2rem);
+  line-height: 0.8;
+  letter-spacing: 0.04em;
+  font-weight: 950;
+  text-transform: uppercase;
+  text-shadow: 0 8px 24px rgba(0, 0, 0, 0.65);
+}
+
+.logo-a {
+  position: relative;
+  display: inline-block;
+  color: transparent;
+  width: 0.72em;
+}
+
+.logo-a::before {
+  content: "";
+  position: absolute;
+  inset: 0.05em 0.06em 0 0.02em;
+  background: linear-gradient(135deg, var(--red) 0 48%, transparent 49% 56%, #fff 57%);
+  clip-path: polygon(50% 0, 100% 100%, 69% 100%, 52% 56%, 33% 100%, 0 100%);
+}
+
+.brand-mark p {
+  margin: 6px 0 0 92px;
+  color: #ffffff;
+  font-size: 1.3rem;
+  letter-spacing: 0.36em;
+  text-transform: uppercase;
+}
+
+.tagline {
+  margin: 62px 0 0 12px;
+  color: #f3f3ef;
+  font-size: 1.68rem;
+  line-height: 1.28;
+  font-weight: 760;
+}
+
+.tagline strong {
+  color: var(--gold);
+}
+
+.star-line {
+  position: relative;
+  height: 35px;
+  margin: 18px 32px 26px 6px;
+  border-top: 1px solid rgba(244, 189, 55, 0.6);
+}
+
+.star-line span {
+  position: absolute;
+  top: -8px;
+  left: 45%;
+  width: 16px;
+  height: 16px;
+  transform: rotate(45deg);
+  background: radial-gradient(circle, #fff 0 18%, var(--gold) 20% 50%, transparent 52%);
+  filter: drop-shadow(0 0 9px var(--gold));
+}
+
+.solutions-card {
+  position: relative;
+  margin: 18px 20px 22px 32px;
+  padding: 82px 40px 30px 54px;
+  border: 2px solid var(--gold);
+  border-radius: 14px;
+  background: linear-gradient(165deg, rgba(255, 255, 255, 0.04), rgba(0, 0, 0, 0.2));
+  box-shadow: inset 0 0 28px rgba(244, 189, 55, 0.08);
+}
+
+.solutions-card h3 {
+  position: absolute;
+  top: -40px;
+  left: 28px;
+  right: 28px;
+  min-height: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin: 0;
+  padding: 12px 22px;
+  border: 1px solid rgba(255, 232, 139, 0.7);
+  border-radius: 14px;
+  color: #0a0b0b;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.45), transparent 30%),
+    linear-gradient(135deg, var(--gold-light), var(--gold) 46%, #c48519 100%);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.28);
+  font-size: 1.45rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.solutions-card h3 svg {
+  width: 42px;
+  height: 42px;
+  stroke-width: 1.9;
+}
+
+.solutions-card ul {
+  display: grid;
+  gap: 27px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.solutions-card li {
+  position: relative;
+  padding-left: 64px;
+  color: #f2f2ee;
+  font-size: 1.45rem;
+  line-height: 1.18;
+}
+
+.solutions-card li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: -5px;
+  width: 36px;
+  height: 36px;
+  border: 3px solid var(--gold);
+  border-radius: 50%;
+  box-shadow: inset 0 0 16px rgba(244, 189, 55, 0.18);
+}
+
+.solutions-card li::after {
+  content: "";
+  position: absolute;
+  left: 11px;
+  top: 6px;
+  width: 16px;
+  height: 9px;
+  transform: rotate(-45deg);
+  border-left: 4px solid var(--gold);
+  border-bottom: 4px solid var(--gold);
+}
+
+.qr-card {
+  display: grid;
+  justify-items: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.qr-frame {
+  position: relative;
+  width: min(76%, 330px);
+  aspect-ratio: 1;
+  padding: 15px;
+  border: 5px solid var(--gold);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.35), 0 0 20px rgba(244, 189, 55, 0.18);
+}
+
+.qr-frame img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.qr-logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 70px;
+  height: 70px;
+  display: grid;
+  place-items: center;
+  transform: translate(-50%, -50%);
+  border: 6px solid #fff;
+  border-radius: 50%;
+  color: var(--red);
+  background: #080909;
+  font-size: 2.8rem;
+  font-weight: 1000;
+  line-height: 1;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+}
+
+.tap-button {
+  width: min(82%, 360px);
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 11px 18px;
+  border: 1px solid rgba(255, 232, 139, 0.8);
+  border-radius: 14px;
+  color: #080909;
+  text-align: left;
+  text-transform: uppercase;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.5), transparent 33%),
+    linear-gradient(135deg, var(--gold-light), var(--gold) 45%, #c7861c);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.32);
+}
+
+.tap-button svg {
+  width: 48px;
+  height: 48px;
+  stroke-width: 2;
+}
+
+.tap-button strong {
+  display: block;
+  font-size: 1.55rem;
+  line-height: 1;
+  font-weight: 950;
+}
+
+.tap-button small {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.95rem;
+  font-weight: 900;
+}
+
+.service-strip {
+  position: relative;
+  z-index: 1;
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  min-height: 210px;
+  padding: 0 44px 38px;
+}
+
+.service-card {
+  position: relative;
+  display: grid;
+  align-content: end;
+  justify-items: center;
+  min-height: 210px;
+  padding: 24px 18px 8px;
+  overflow: hidden;
+  border-left: 1px solid rgba(244, 189, 55, 0.55);
+  text-align: center;
+}
+
+.service-card:first-child {
+  border-left: 0;
+}
+
+.service-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 48px;
+  opacity: 0.8;
+  background:
+    radial-gradient(circle at 50% 35%, rgba(244, 189, 55, 0.28), transparent 32%),
+    linear-gradient(180deg, rgba(8, 28, 36, 0.58), rgba(0, 0, 0, 0.15)),
+    var(--tile-bg);
+  mask-image: linear-gradient(180deg, black, transparent 95%);
+}
+
+.industrial { --tile-bg: repeating-linear-gradient(90deg, rgba(244, 189, 55, 0.16) 0 3px, transparent 3px 23px); }
+.marine { --tile-bg: linear-gradient(145deg, rgba(35, 80, 98, 0.52), rgba(2, 8, 10, 0.2)); }
+.global { --tile-bg: radial-gradient(circle at 50% 50%, rgba(53, 150, 188, 0.58), transparent 45%); }
+.vision { --tile-bg: linear-gradient(135deg, rgba(10, 114, 62, 0.62), rgba(8, 35, 50, 0.28)); }
+
+.service-card svg,
+.service-card h3 {
+  position: relative;
+  z-index: 1;
+}
+
+.service-card svg {
+  width: 54px;
+  height: 54px;
+  margin-bottom: 10px;
+  color: #f7f7f4;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.7));
+}
+
+.service-card h3 {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.05;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 940px) {
+  body {
+    padding: 16px;
+  }
+
+  .card-shell {
+    min-height: auto;
+    grid-template-columns: 1fr;
+    border-radius: 28px;
+  }
+
+  .card-shell::after {
+    display: none;
+  }
+
+  .brand-panel {
+    border-right: 0;
+    border-bottom: 1px solid rgba(244, 189, 55, 0.42);
+  }
+
+  .brand-panel,
+  .solutions-panel {
+    padding: 32px 24px;
+  }
+
+  .solutions-panel {
+    padding-top: 38px;
+  }
+
+  .portrait-wrap {
+    width: min(74%, 330px);
+  }
+
+  .role {
+    font-size: 1.35rem;
+  }
+
+  .contact-row strong {
+    font-size: 1.35rem;
+  }
+
+  .quick-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .brand-mark h2 {
+    font-size: clamp(2.9rem, 17vw, 4.9rem);
+  }
+
+  .brand-mark p {
+    margin-left: 56px;
+    font-size: 1rem;
+    letter-spacing: 0.27em;
+  }
+
+  .tagline {
+    margin-top: 34px;
+    font-size: 1.35rem;
+  }
+
+  .solutions-card {
+    margin: 34px 0 22px;
+    padding: 72px 24px 28px;
+  }
+
+  .solutions-card h3 {
+    left: 18px;
+    right: 18px;
+    font-size: 1.12rem;
+  }
+
+  .solutions-card li {
+    padding-left: 54px;
+    font-size: 1.18rem;
+  }
+
+  .service-strip {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 20px 34px;
+  }
+
+  .service-card:nth-child(3) {
+    border-left: 0;
+  }
+}
+
+@media (max-width: 520px) {
+  body {
+    padding: 10px;
+  }
+
+  .card-shell {
+    border-radius: 22px;
+  }
+
+  .brand-panel,
+  .solutions-panel {
+    padding: 26px 18px;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .contact-row {
+    grid-template-columns: 50px 1fr;
+  }
+
+  .icon {
+    width: 48px;
+    height: 48px;
+  }
+
+  .icon svg {
+    width: 25px;
+    height: 25px;
+  }
+
+  .quick-button {
+    min-height: 66px;
+  }
+
+  .qr-frame {
+    width: min(92%, 310px);
+  }
+
+  .service-strip {
+    grid-template-columns: 1fr;
+    padding-inline: 18px;
+  }
+
+  .service-card {
+    border-left: 0;
+    border-top: 1px solid rgba(244, 189, 55, 0.35);
+  }
+}
